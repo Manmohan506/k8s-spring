@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: srikavyapendiala/react:latest
+          image: 8978443990/react:latest
           imagePullPolicy: Always
           stdin: true
           tty: true

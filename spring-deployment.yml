@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: srikavyapendiala/springboot:latest
+          image: 8978443990/springboot:latest
           ports:
             - containerPort: 8080
           env:
